@@ -1,0 +1,38 @@
+body{
+    font-family:fantasy;
+    background-color:rgb(193, 248, 193);
+}
+
+.header_div{
+    background: rgb(9, 146, 55);
+    color:rgb(44, 252, 106);
+}
+
+.header_div p{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(255, 251, 251);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px; 
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+.crf{
+    position: fixed;
+    color: rgb(165, 241, 177);
+    bottom: 0;
+    width: 100%;
+    font-size: 25px;
+    background-color: rgb(9, 146, 55);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(216, 172, 236);
+}
